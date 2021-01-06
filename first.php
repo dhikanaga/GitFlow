@@ -1,4 +1,5 @@
 <?php
-$nama = "Dhika";
-echo $nama;
+$firstName = "Dhika";
+$lastName = "Naga";
+echo $firstName.$lastName;
 ?>
